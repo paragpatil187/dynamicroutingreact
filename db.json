@@ -1,0 +1,34 @@
+{
+    "products": [
+      {
+        "id":"1",
+        "name":"shoe",
+        "price":"₹2000",
+        "image":"https://rukminim1.flixcart.com/image/150/150/kqjtd3k0/shoe/o/5/i/7-m7-22509-coolgrn-big-black-m7-by-metronaut-coolgrn-big-black-original-imag4jc3d4zpvqgt.jpeg?q=70"
+      },
+      {
+        "id":"2",
+        "name":"watch",
+        "price":"₹800",
+        "image":"https://rukminim1.flixcart.com/image/150/150/kr2e3680/watch/a/r/u/new-fancy-stylish-blue-dial-pu-strap-blue-king-bracelet-combo-original-imag4xnbjk5jkz6j.jpeg?q=70"
+      },
+      {
+        "id":"3",
+        "name":"laptop",
+        "price":"₹800",
+        "image":"https://rukminim1.flixcart.com/image/150/150/jrjizrk0/tablet/g/f/a/lenovo-d330-10igm-original-imafdbhndgzhhtzt.jpeg?q=70"
+      },
+      {
+        "id":"4",
+        "name":"mobile",
+        "price":"₹800",
+        "image":"https://rukminim1.flixcart.com/image/150/150/k4ehnrk0/mobile-holder/6/s/g/aluminium-adjustable-and-foldable-dock-elv-original-imafnb843mpzvghd.jpeg?q=70"
+      },
+      {
+        "id":"5",
+        "name":"t shirt",
+        "price":"₹800",
+        "image":"https://rukminim1.flixcart.com/image/150/150/k4lmv0w0/t-shirt/9/s/g/m-maw19pn004a-metronaut-original-imafngzgx7zggtcb.jpeg?q=70"
+      }
+    ]
+}
